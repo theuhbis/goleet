@@ -4,7 +4,7 @@ This repository contains solutions to Leetcode problems in Golang.
 
 # List of Solutions
 
- 1. [Two Sum](https://github.com/theuhbis/goleet/tree/main/twosumm)
+ 1. [Two Sum](https://github.com/theuhbis/goleet/tree/main/twosum)
 
 # Contributing 
 
